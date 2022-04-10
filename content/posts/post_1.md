@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
+title: "Lo aprendido hast ahora en launchX"
 date: 2022-09-04
-description: 'Descripción de tu blog post'
+description: 'El camino recorrido...'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
+Hey! aqui vamos
